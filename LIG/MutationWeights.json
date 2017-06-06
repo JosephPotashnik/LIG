@@ -1,0 +1,50 @@
+[
+  {
+    "Mutation": "ChangeRightToLeftBranch",
+    "MutationWeight": 0
+  },
+  {
+    "Mutation": "ChangeLeftToRightBranch",
+    "MutationWeight": 0
+  },
+  {
+    "Mutation": "InsertRule",
+    "MutationWeight": 10
+  },
+  {
+    "Mutation": "DeleteRule",
+    "MutationWeight": 10
+  },
+  {
+    "Mutation": "ChangeComplementOfRule",
+    "MutationWeight": 0
+  },
+  {
+    "Mutation": "ChangeProbabilityOfRule",
+    "MutationWeight": 0
+  },
+  {
+    "Mutation": "AddRuleToLandingSites",
+    "MutationWeight": 0
+  },
+  {
+    "Mutation": "RemoveRuleFromLandingSites",
+    "MutationWeight": 0
+  },
+  {
+    "Mutation": "AddMoveable",
+    "MutationWeight": 0
+  },
+  {
+    "Mutation": "RemoveMoveable",
+    "MutationWeight": 0
+  },
+  {
+    "Mutation": "ChangeHeadOfRule",
+    "MutationWeight": 0
+  },
+  {
+    "Mutation": "InsertRuleWithANewSymbol",
+    "MutationWeight": 0
+  }
+]

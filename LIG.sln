@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LIGParser", "LIGParser\LIGParser.csproj", "{D5756157-3FFD-44AE-9C55-BB98CB59FB3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIGLearner", "LIGLearner\LIGLearner.csproj", "{E08C38E3-937A-4574-8CAF-7534DBABA9B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIG", "LIG\LIG.csproj", "{EFA1AB41-D109-4EE9-B7F5-928897602378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5756157-3FFD-44AE-9C55-BB98CB59FB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5756157-3FFD-44AE-9C55-BB98CB59FB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5756157-3FFD-44AE-9C55-BB98CB59FB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5756157-3FFD-44AE-9C55-BB98CB59FB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E08C38E3-937A-4574-8CAF-7534DBABA9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08C38E3-937A-4574-8CAF-7534DBABA9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08C38E3-937A-4574-8CAF-7534DBABA9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08C38E3-937A-4574-8CAF-7534DBABA9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA1AB41-D109-4EE9-B7F5-928897602378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA1AB41-D109-4EE9-B7F5-928897602378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA1AB41-D109-4EE9-B7F5-928897602378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA1AB41-D109-4EE9-B7F5-928897602378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
