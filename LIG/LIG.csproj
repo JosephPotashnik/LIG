@@ -14,4 +14,19 @@
     <ProjectReference Include="..\LIGParser\LIGParser.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="MutationWeights.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="ProgramParameters.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SimulatedAnnealingParameters.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Vocabulary.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
